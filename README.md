@@ -1,1 +1,2 @@
-# tp_project
+# запуск проекта python3 main.py
+
